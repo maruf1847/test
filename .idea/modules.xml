@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Python Practice/Algorithms/.idea/Algorithms.iml" filepath="$PROJECT_DIR$/../../Python Practice/Algorithms/.idea/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Blog-JustDjango.iml" filepath="$PROJECT_DIR$/.idea/Blog-JustDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python Practice/Data Structure/.idea/Data Structure.iml" filepath="$PROJECT_DIR$/../../Python Practice/Data Structure/.idea/Data Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../New folder/.idea/New folder.iml" filepath="$PROJECT_DIR$/../../New folder/.idea/New folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python Practice/ds-algorithms/.idea/ds-algorithms.iml" filepath="$PROJECT_DIR$/../../Python Practice/ds-algorithms/.idea/ds-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python Practice/problem-solving/.idea/problem-solving.iml" filepath="$PROJECT_DIR$/../../Python Practice/problem-solving/.idea/problem-solving.iml" />
+    </modules>
+  </component>
+</project>
