@@ -57,7 +57,7 @@ class Post(models.Model):
     content = HTMLField()
     # comment_count = models.IntegerField(default=0)
     # view_count = models.IntegerField(default=0)
-    author = models.ForeignKey(Author, on_delete=models.CASCADE, null=True, blank=True)
+    author = models.ForeignKey(Author, on_delete=models.CASCADE)
     thumbnail = models.ImageField(upload_to="thumbnail_pics")
     categories = models.ManyToManyField(Category)
     featured = models.BooleanField()
