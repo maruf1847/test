@@ -1,4 +1,4 @@
-from tinymce import HTMLField
+from tinymce.models import HTMLField
 from django.db import models
 from django.urls import reverse
 from django.contrib.auth.models import User
